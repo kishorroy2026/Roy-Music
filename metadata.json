@@ -1,0 +1,6 @@
+{
+  "name": "Roy Music",
+  "description": "Premium offline Android music player with mood-based organization, automatic favorites, folder browser, audio equalizer, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
